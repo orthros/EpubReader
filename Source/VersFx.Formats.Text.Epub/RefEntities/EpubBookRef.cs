@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Drawing;
+using ImageSharp;
 using System.IO.Compression;
 using System.Threading.Tasks;
 using VersFx.Formats.Text.Epub.Readers;
